@@ -27,6 +27,13 @@ div > p > span{
 	font-size: 1.2em;
 }
 
+.media{
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: space-around;
+}
+
 .navigation{
 	display: block;
 	border-style: double;
