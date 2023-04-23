@@ -1,5 +1,7 @@
 /* Style sheet for index.html */
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
 @media screen and (min-width: 720px) {
   body {
     background-color: pink;
@@ -80,4 +82,5 @@ div > p > span{
 *{
 	max-width: 100vw;
 	min-width: 30vh;
+	font-family: "Roboto Mono"
 }
