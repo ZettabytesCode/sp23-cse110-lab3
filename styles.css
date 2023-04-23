@@ -2,6 +2,7 @@
 
 h2 {
 	color: rgb(255,0,0);
+	margin: auto;
 }
 
 h3 {
@@ -10,18 +11,21 @@ h3 {
 
 body{
 	background-color: #b3faff;
+	margin: 2px, 2px, 2px, 2px;
 }
 
 .navigation{
 	border-style: double;
 	border-color: black;
 	border-radius: 25pt;
+	border-width: 2vh;
 	margin-top: 3mm;
 	margin-left: 20px;
 	margin-right: 15pt;
 	margin-bottom: 0.7pc;
+	padding: 2px, 2px, 2px, 2px;
 }
 
 *{
-	margin: auto;
+	max-height: 100vh;
 }
