@@ -43,6 +43,13 @@ div > p > span{
 }
 
 .media{
+	display: grid;
+	column-gap: 20px;
+	row-gap: 20px;
+	justify-items: start;
+}
+
+.form{
 	display: flex;
 	flex-direction: column;
 	flex-wrap: nowrap;
