@@ -1,5 +1,10 @@
 /* Style sheet for index.html */
 
+h1, h2{
+	text-decoration-line: underline;
+	text-align: center;
+}
+
 h2 {
 	color: rgb(255,0,0);
 	margin: auto;
@@ -18,8 +23,8 @@ body{
 	margin: 2px, 2px, 2px, 2px;
 }
 
-div > span{
-	font-size: 2em;
+div > p > span{
+	font-size: 1.2em;
 }
 
 .navigation{
