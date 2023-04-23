@@ -7,6 +7,10 @@ h2 {
 
 h3 {
 	color: hsl(119, 100%, 50%);
+	margin-top: 1vmin;
+	margin-left: 20px;
+	margin-right: 15pt;
+	margin-bottom: 1vmax;
 }
 
 body{
@@ -14,11 +18,15 @@ body{
 	margin: 2px, 2px, 2px, 2px;
 }
 
+div > span{
+	font-size: 2em;
+}
+
 .navigation{
 	border-style: double;
 	border-color: black;
 	border-radius: 25pt;
-	border-width: 2vh;
+	border-width: 2vw;
 	margin-top: 3mm;
 	margin-left: 20px;
 	margin-right: 15pt;
