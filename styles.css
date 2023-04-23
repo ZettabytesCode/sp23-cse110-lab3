@@ -3,6 +3,7 @@
 h1, h2{
 	text-decoration-line: underline;
 	text-align: center;
+	position: static;
 }
 
 h2 {
