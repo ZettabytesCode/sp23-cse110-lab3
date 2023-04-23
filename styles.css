@@ -18,6 +18,14 @@ h3 {
 	margin-bottom: 1vmax;
 }
 
+a:hover{
+	color: red;
+}
+
+a:active{
+	color: blue;
+}
+
 body{
 	background-color: #b3faff;
 	margin: 2px, 2px, 2px, 2px;
