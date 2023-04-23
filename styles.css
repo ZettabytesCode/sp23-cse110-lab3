@@ -35,6 +35,8 @@ div > p > span{
 }
 
 .navigation{
+	height: 150px;
+	width: 700px;
 	display: block;
 	border-style: double;
 	border-color: black;
