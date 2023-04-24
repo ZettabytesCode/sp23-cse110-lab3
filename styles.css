@@ -45,7 +45,11 @@ div > p > span{
 	font-size: 1.2em;
 }
 
-form input[type="text"] + label{
+form label + input[type="text"]{
+	background-color: DodgerBlue;
+}
+
+form label ~ input[type="date"]{
 	background-color: DodgerBlue;
 }
 
